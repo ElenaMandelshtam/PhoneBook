@@ -56,7 +56,7 @@ public class LoginTests extends TestBase{
         //pause(3000);
         app.getHelperUser().pause(3000);
         //Assert.assertTrue(isAlertPresent());
-        app.getHelperUser().isAlertPresent();
+        Assert.assertTrue(app.getHelperUser().isAlertPresent());
 
     }
 
@@ -83,7 +83,7 @@ public class LoginTests extends TestBase{
         // assert
         //pause(3000);
         app.getHelperUser().pause(3000);
-        app.getHelperUser().isAlertPresent();
+        Assert.assertTrue(app.getHelperUser().isAlertPresent());
 
     }
 
