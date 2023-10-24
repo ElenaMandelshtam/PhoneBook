@@ -1,0 +1,126 @@
+2023-10-23 20:11:17,072 INFO m.ApplicationManager [ApplicationManager.java:35] Test started on FireFox
+2023-10-23 20:11:17,970 INFO m.ApplicationManager [ApplicationManager.java:39] Navigated to the link --->https://telranedu.web.app/home
+2023-10-23 20:11:18,036 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 20:11:18,038 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 20:11:21,060 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 20:11:21,061 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 20:11:21,069 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='LOGIN']is found
+2023-10-23 20:11:21,327 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[1]
+2023-10-23 20:11:21,333 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[1]is found
+2023-10-23 20:11:21,595 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[2]
+2023-10-23 20:11:21,603 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[2]is found
+2023-10-23 20:11:21,839 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[1]
+2023-10-23 20:11:21,847 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[1]is found
+2023-10-23 20:11:22,087 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 20:11:22,972 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 20:11:23,190 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 20:11:23,197 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 20:11:23,430 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 20:11:23,436 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 20:11:23,707 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 20:11:23,713 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 20:11:24,001 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 20:11:24,006 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 20:11:24,247 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 20:11:24,253 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 20:11:24,483 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 20:11:24,489 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 20:11:24,726 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 20:11:24,732 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 20:11:24,943 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 20:11:25,373 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 20:11:25,397 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 20:11:25,397 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 20:11:25,399 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 20:11:25,400 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 20:11:25,406 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 20:11:25,407 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 20:11:25,411 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 20:11:25,629 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 20:11:25,636 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 20:11:25,892 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 20:11:25,900 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 20:11:26,133 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 20:11:26,139 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 20:11:26,379 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 20:11:26,385 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 20:11:26,623 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 20:11:26,630 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 20:11:26,885 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 20:11:26,890 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 20:11:27,124 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 20:11:27,130 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 20:11:27,344 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 20:11:27,517 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 20:11:27,522 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 20:11:27,522 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 20:11:27,523 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 20:11:27,524 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 20:11:27,531 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 20:11:27,531 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 20:11:27,536 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 20:11:27,753 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 20:11:27,758 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 20:11:27,988 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 20:11:27,994 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 20:11:28,223 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 20:11:28,228 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 20:11:28,472 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 20:11:28,478 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 20:11:28,716 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 20:11:28,722 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 20:11:28,962 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 20:11:28,967 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 20:11:29,200 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 20:11:29,205 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 20:11:29,419 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 20:11:29,671 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 20:11:29,675 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 20:11:29,676 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 20:11:29,676 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 20:11:29,677 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 20:11:29,682 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 20:11:29,684 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 20:11:29,689 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 20:11:29,905 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 20:11:29,912 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 20:11:30,162 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 20:11:30,167 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 20:11:30,395 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 20:11:30,399 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 20:11:30,635 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 20:11:30,639 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 20:11:30,887 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 20:11:30,892 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 20:11:31,122 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 20:11:31,128 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 20:11:31,361 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 20:11:31,366 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 20:11:31,577 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 20:11:31,822 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 20:11:31,828 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 20:11:31,828 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 20:11:31,829 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 20:11:31,829 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 20:11:31,835 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 20:11:31,836 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 20:11:31,840 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 20:11:32,061 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 20:11:32,073 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 20:11:32,299 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 20:11:32,304 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 20:11:32,544 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 20:11:32,549 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 20:11:32,783 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 20:11:32,789 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 20:11:33,030 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 20:11:33,035 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 20:11:33,262 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 20:11:33,267 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 20:11:33,498 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 20:11:33,503 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 20:11:33,712 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 20:11:33,972 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 20:11:33,977 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 20:11:33,978 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 20:11:34,850 INFO m.ApplicationManager [ApplicationManager.java:47] Tests completed

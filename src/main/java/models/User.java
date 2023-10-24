@@ -1,9 +1,21 @@
 package models;
 
+import javafx.beans.property.adapter.JavaBeanBooleanPropertyBuilder;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+@Getter
+@Setter
+@ToString
+@Builder
+
 public class User {
 
     String email;
     String password;
+
 
     public void setEmail(String email) {
         this.email = email;
@@ -25,4 +37,6 @@ public class User {
         this.email = email;
         this.password = password;
     }
+
+    public User(){}
 }

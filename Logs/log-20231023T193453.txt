@@ -1,0 +1,272 @@
+2023-10-23 19:34:55,431 INFO m.ApplicationManager [ApplicationManager.java:32] Test started on Chrome
+2023-10-23 19:34:56,582 INFO m.ApplicationManager [ApplicationManager.java:39] Navigated to the link --->https://telranedu.web.app/home
+2023-10-23 19:34:56,627 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 19:34:56,630 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 19:34:59,649 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 19:34:59,650 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 19:34:59,666 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='LOGIN']is found
+2023-10-23 19:34:59,749 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[1]
+2023-10-23 19:34:59,773 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[1]is found
+2023-10-23 19:34:59,953 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[2]
+2023-10-23 19:34:59,967 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[2]is found
+2023-10-23 19:35:00,055 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[1]
+2023-10-23 19:35:00,066 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[1]is found
+2023-10-23 19:35:00,103 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 19:35:00,104 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 19:35:01,319 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 19:35:01,362 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 19:35:01,384 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 19:35:01,479 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 19:35:01,491 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 19:35:01,571 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 19:35:01,582 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 19:35:01,690 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 19:35:01,703 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 19:35:01,800 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 19:35:01,811 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 19:35:01,890 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 19:35:01,901 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 19:35:01,978 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 19:35:01,990 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 19:35:02,016 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 19:35:03,097 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 19:35:03,112 INFO m.NGListener [NGListener.java:22] Success test ---> addNewContactPositive
+2023-10-23 19:35:03,113 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 19:35:03,113 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:03,114 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 19:35:03,114 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 19:35:03,123 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 19:35:03,123 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 19:35:03,124 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 19:35:03,134 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 19:35:03,170 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 19:35:03,184 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 19:35:03,283 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 19:35:03,294 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 19:35:03,372 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 19:35:03,383 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 19:35:03,469 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 19:35:03,480 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 19:35:03,579 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 19:35:03,588 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 19:35:03,672 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 19:35:03,683 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 19:35:03,772 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 19:35:03,782 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 19:35:03,806 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 19:35:04,469 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 19:35:04,484 INFO m.NGListener [NGListener.java:22] Success test ---> addNewContactPositive
+2023-10-23 19:35:04,485 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 19:35:04,485 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:04,486 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 19:35:04,487 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 19:35:04,498 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 19:35:04,498 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 19:35:04,499 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 19:35:04,507 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 19:35:04,547 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 19:35:04,566 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 19:35:04,656 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 19:35:04,667 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 19:35:04,757 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 19:35:04,768 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 19:35:04,850 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 19:35:04,859 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 19:35:04,956 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 19:35:04,965 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 19:35:05,038 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 19:35:05,047 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 19:35:05,127 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 19:35:05,136 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 19:35:05,160 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 19:35:05,844 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 19:35:05,854 INFO m.NGListener [NGListener.java:22] Success test ---> addNewContactPositive
+2023-10-23 19:35:05,854 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 19:35:05,855 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:05,856 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 19:35:05,856 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 19:35:05,865 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 19:35:05,865 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 19:35:05,865 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 19:35:05,875 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 19:35:05,910 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 19:35:05,922 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 19:35:06,014 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 19:35:06,023 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 19:35:06,095 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 19:35:06,105 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 19:35:06,200 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 19:35:06,211 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 19:35:06,304 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 19:35:06,313 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 19:35:06,394 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 19:35:06,405 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 19:35:06,480 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 19:35:06,491 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 19:35:06,516 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 19:35:07,408 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 19:35:07,416 INFO m.NGListener [NGListener.java:22] Success test ---> addNewContactPositive
+2023-10-23 19:35:07,417 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 19:35:07,417 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:07,418 INFO t.TestBase [TestBase.java:33] Started test --->addNewContactPositive
+2023-10-23 19:35:07,418 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='Sign Out']
+2023-10-23 19:35:07,427 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='Sign Out']is found
+2023-10-23 19:35:07,428 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 19:35:07,428 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //a[.='ADD']
+2023-10-23 19:35:07,436 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //a[.='ADD']is found
+2023-10-23 19:35:07,467 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Name']
+2023-10-23 19:35:07,481 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Name']is found
+2023-10-23 19:35:07,563 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Last Name']
+2023-10-23 19:35:07,575 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Last Name']is found
+2023-10-23 19:35:07,657 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Phone']
+2023-10-23 19:35:07,670 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Phone']is found
+2023-10-23 19:35:07,762 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='email']
+2023-10-23 19:35:07,772 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='email']is found
+2023-10-23 19:35:07,862 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='Address']
+2023-10-23 19:35:07,871 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='Address']is found
+2023-10-23 19:35:07,940 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.cssSelector: [placeholder='description']
+2023-10-23 19:35:07,948 INFO m.WDListener [WDListener.java:27] Element with locator --->By.cssSelector: [placeholder='description']is found
+2023-10-23 19:35:08,027 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[.='Save']
+2023-10-23 19:35:08,040 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[.='Save']is found
+2023-10-23 19:35:08,063 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3
+2023-10-23 19:35:08,490 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //div[@class='contact-item_card__2SOIM'][last()]//h3is found
+2023-10-23 19:35:08,503 INFO m.NGListener [NGListener.java:22] Success test ---> addNewContactPositive
+2023-10-23 19:35:08,504 INFO t.TestBase [TestBase.java:38] Finished test --->addNewContactPositive
+2023-10-23 19:35:08,507 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:08,510 INFO t.TestBase [TestBase.java:33] Started test --->loginNegativeTestWrongEmail
+2023-10-23 19:35:08,511 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginNegativeTestWrongEmail
+2023-10-23 19:35:08,511 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 19:35:11,538 INFO m.WDListener [WDListener.java:33] Something went wrong!!!
+2023-10-23 19:35:11,539 INFO m.WDListener [WDListener.java:34] no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:11,539 INFO m.WDListener [WDListener.java:35] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:12,261 INFO m.WDListener [WDListener.java:40] Here is the path to screenshot with error --->src/test/screenshots/screenshot-2111.png
+2023-10-23 19:35:12,263 INFO m.NGListener [NGListener.java:28] Failure test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:12,264 INFO t.TestBase [TestBase.java:38] Finished test --->loginNegativeTestWrongEmail
+2023-10-23 19:35:12,264 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:12,265 INFO t.TestBase [TestBase.java:33] Started test --->loginNegativeTestWrongPassword
+2023-10-23 19:35:12,266 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginNegativeTestWrongPassword
+2023-10-23 19:35:12,266 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 19:35:15,293 INFO m.WDListener [WDListener.java:33] Something went wrong!!!
+2023-10-23 19:35:15,295 INFO m.WDListener [WDListener.java:34] no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:15,296 INFO m.WDListener [WDListener.java:35] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:15,929 INFO m.WDListener [WDListener.java:40] Here is the path to screenshot with error --->src/test/screenshots/screenshot-2115.png
+2023-10-23 19:35:15,930 INFO m.NGListener [NGListener.java:28] Failure test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:15,931 INFO t.TestBase [TestBase.java:38] Finished test --->loginNegativeTestWrongPassword
+2023-10-23 19:35:15,931 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:15,932 INFO t.TestBase [TestBase.java:33] Started test --->loginPositiveTestModel
+2023-10-23 19:35:15,932 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginPositiveTestModel
+2023-10-23 19:35:15,933 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 19:35:18,942 INFO m.WDListener [WDListener.java:33] Something went wrong!!!
+2023-10-23 19:35:18,942 INFO m.WDListener [WDListener.java:34] no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:18,943 INFO m.WDListener [WDListener.java:35] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:19,522 INFO m.WDListener [WDListener.java:40] Here is the path to screenshot with error --->src/test/screenshots/screenshot-2118.png
+2023-10-23 19:35:19,523 INFO m.NGListener [NGListener.java:28] Failure test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:19,524 INFO t.TestBase [TestBase.java:38] Finished test --->loginPositiveTestModel
+2023-10-23 19:35:19,524 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:19,525 INFO t.TestBase [TestBase.java:33] Started test --->registrationPositiveTest
+2023-10-23 19:35:19,526 INFO m.NGListener [NGListener.java:16] Start of the test ---> registrationPositiveTest
+2023-10-23 19:35:19,527 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-10-23 19:35:22,580 INFO m.WDListener [WDListener.java:33] Something went wrong!!!
+2023-10-23 19:35:22,581 INFO m.WDListener [WDListener.java:34] no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:22,581 INFO m.WDListener [WDListener.java:35] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:23,165 INFO m.WDListener [WDListener.java:40] Here is the path to screenshot with error --->src/test/screenshots/screenshot-2122.png
+2023-10-23 19:35:23,166 INFO m.NGListener [NGListener.java:28] Failure test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[.='LOGIN']"}
+  (Session info: chrome=118.0.5993.96)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Elenas-MacBook-Pro.local', ip: '2a06:c701:479f:b100:1cc7:84f8:259f:7d0e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6.1', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.96, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/s_/zy5ffsj13lg...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbca115cc736aa8ffbaa3a229a85cfa8
+*** Element info: {Using=xpath, value=//*[.='LOGIN']}
+2023-10-23 19:35:23,168 INFO t.TestBase [TestBase.java:38] Finished test --->registrationPositiveTest
+2023-10-23 19:35:23,168 INFO t.TestBase [TestBase.java:39] ================================================
+2023-10-23 19:35:23,360 INFO m.ApplicationManager [ApplicationManager.java:47] Tests completed

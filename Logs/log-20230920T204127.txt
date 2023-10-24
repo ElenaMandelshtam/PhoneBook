@@ -1,0 +1,1 @@
+2023-09-20 20:41:35,615 INFO t.TestBase [RegistrationTests.java:20] registrationPositiveTest starts with:igor_2491@abcd.comIg12345$

@@ -1,0 +1,15 @@
+2023-09-27 21:01:51,466 INFO m.ApplicationManager [ApplicationManager.java:26] Navigated to the link --->https://telranedu.web.app/home
+2023-09-27 21:01:51,524 INFO t.TestBase [TestBase.java:31] Started test --->loginNegativeTestWrongPassword
+2023-09-27 21:01:51,529 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginNegativeTestWrongPassword
+2023-09-27 21:01:51,532 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //*[.='LOGIN']
+2023-09-27 21:01:51,566 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //*[.='LOGIN']is found
+2023-09-27 21:01:51,677 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[1]
+2023-09-27 21:01:51,696 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[1]is found
+2023-09-27 21:01:51,854 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //input[2]
+2023-09-27 21:01:51,868 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //input[2]is found
+2023-09-27 21:01:51,958 INFO m.WDListener [WDListener.java:21] Start searching element by locator --->By.xpath: //button[1]
+2023-09-27 21:01:51,971 INFO m.WDListener [WDListener.java:27] Element with locator --->By.xpath: //button[1]is found
+2023-09-27 21:01:55,055 INFO m.NGListener [NGListener.java:22] Success test ---> loginNegativeTestWrongPassword
+2023-09-27 21:01:55,058 INFO t.TestBase [TestBase.java:36] Finished test --->loginNegativeTestWrongPassword
+2023-09-27 21:01:55,058 INFO t.TestBase [TestBase.java:37] ================================================
+2023-09-27 21:01:55,241 INFO m.ApplicationManager [ApplicationManager.java:34] Tests completed

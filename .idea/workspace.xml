@@ -5,11 +5,116 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a07d185-a057-4fb9-8ea7-08426af2cd40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230920T204127.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230920T205335.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T185536.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T192703.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T200321.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T203649.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T203826.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T203908.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T203959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T204948.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T205041.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T205149.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T205330.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T205659.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T210045.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T210126.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T210148.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T210202.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20230927T210213.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T124741.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T125537.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T125619.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T125716.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T140545.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T141752.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T141854.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T142443.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T143329.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T143353.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T143530.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T144250.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T145326.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T153121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T153453.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T153950.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T193453.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T193551.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T194655.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T200830.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T200915.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T201112.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T202846.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T213600.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T213854.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T222845.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T223146.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231023T223149.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T103509.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T104727.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T104814.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T105006.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T112340.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T112429.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T112746.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T112823.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T113018.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T122856.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T125332.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/log-20231024T140620.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/HelperContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/NGListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/ProviderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/WDListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/AddNewContactTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Reg_daratest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/negative.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/positive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/pre_prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1434.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1438.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1476.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1676.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1739.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1919.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-1922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2315.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-2907.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-3119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/screenshots/screenshot-75.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/manager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manager/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manager/HelperBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/manager/HelperUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manager/HelperUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/RegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RegistrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +168,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/elenamandelstam/Documents/GitHub/PhoneBook/src/test/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.RegistrationTests.registrationPositiveTest">
-    <configuration name="LoginTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AddNewContactTests.addNewContactPositive">
+    <configuration name="AddNewContactTests.addNewContactPositive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -85,7 +202,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.LoginTests&quot;" />
+            <option value="&quot;tests.AddNewContactTests.addNewContactPositive&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -96,7 +213,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTests.loginPositiveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AddNewContactTests.addNewContactPositiveDTO" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -109,7 +226,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.LoginTests.loginPositiveTest&quot;" />
+            <option value="&quot;tests.AddNewContactTests.addNewContactPositiveDTO&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -120,7 +237,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="RegistrationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginTests.loginPositiveTestProps" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +250,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.RegistrationTests&quot;" />
+            <option value="&quot;tests.LoginTests.loginPositiveTestProps&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -144,7 +261,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="RegistrationTests.registrationNegativeTestWrongEmail" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginTests.loginPositiveTestUserDTO" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -157,7 +274,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.RegistrationTests.registrationNegativeTestWrongEmail&quot;" />
+            <option value="&quot;tests.LoginTests.loginPositiveTestUserDTO&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -168,7 +285,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="RegistrationTests.registrationPositiveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RegistrationTests.registrationPositiveTestCSV" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -181,7 +298,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.RegistrationTests.registrationPositiveTest&quot;" />
+            <option value="&quot;tests.RegistrationTests.registrationPositiveTestCSV&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -194,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.RegistrationTests.registrationPositiveTest" />
-        <item itemvalue="Gradle.RegistrationTests" />
-        <item itemvalue="Gradle.RegistrationTests.registrationNegativeTestWrongEmail" />
-        <item itemvalue="Gradle.LoginTests" />
-        <item itemvalue="Gradle.LoginTests.loginPositiveTest" />
+        <item itemvalue="Gradle.AddNewContactTests.addNewContactPositive" />
+        <item itemvalue="Gradle.LoginTests.loginPositiveTestProps" />
+        <item itemvalue="Gradle.LoginTests.loginPositiveTestUserDTO" />
+        <item itemvalue="Gradle.RegistrationTests.registrationPositiveTestCSV" />
+        <item itemvalue="Gradle.AddNewContactTests.addNewContactPositiveDTO" />
       </list>
     </recent_temporary>
   </component>
@@ -215,16 +332,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/tests/RegistrationTests.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

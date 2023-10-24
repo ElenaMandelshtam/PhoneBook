@@ -1,0 +1,9 @@
+2023-10-23 12:47:53,604 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 12:47:53,612 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 12:47:53,615 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 12:47:53,617 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 12:47:53,619 INFO m.NGListener [NGListener.java:16] Start of the test ---> addNewContactPositive
+2023-10-23 12:47:53,623 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginNegativeTestWrongEmail
+2023-10-23 12:47:53,624 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginNegativeTestWrongPassword
+2023-10-23 12:47:53,626 INFO m.NGListener [NGListener.java:16] Start of the test ---> loginPositiveTestModel
+2023-10-23 12:47:53,628 INFO m.NGListener [NGListener.java:16] Start of the test ---> registrationPositiveTest
