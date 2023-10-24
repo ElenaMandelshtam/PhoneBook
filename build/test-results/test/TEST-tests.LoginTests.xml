@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.LoginTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-24T17:11:55" hostname="Elenas-MacBook-Pro.local" time="10.23">
-  <properties/>
-  <testcase name="loginPositiveTestUserDTO[0](User(email=igor@abcd.com, password=Ig12345$))" classname="tests.LoginTests" time="3.482"/>
-  <testcase name="loginPositiveTestUserDTO[1](User(email=alexgt@mail.com, password=Ag12345$))" classname="tests.LoginTests" time="3.305"/>
-  <testcase name="loginPositiveTestUserDTO[2](User(email=nata34@mail.com, password=Nn12345!))" classname="tests.LoginTests" time="3.305"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
